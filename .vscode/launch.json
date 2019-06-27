@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TP4",
+      "request": "launch",
+      "mainClass": "TP4",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TP3",
+      "request": "launch",
+      "mainClass": "TP3",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TP2",
+      "request": "launch",
+      "mainClass": "TP2",
+      "projectName": "TP PBO 2017_15b400f2"
+    }
+  ]
+}
