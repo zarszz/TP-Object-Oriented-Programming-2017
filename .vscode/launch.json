@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TP5",
+      "request": "launch",
+      "mainClass": "TP5",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TryShape",
+      "request": "launch",
+      "mainClass": "TryShape",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TP4",
       "request": "launch",
       "mainClass": "TP4",
