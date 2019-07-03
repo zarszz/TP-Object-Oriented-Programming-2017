@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TP8",
+      "request": "launch",
+      "mainClass": "TP8",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - CreateTable",
+      "request": "launch",
+      "mainClass": "CreateTable",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TP7",
       "request": "launch",
       "mainClass": "TP7",
