@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - TP7",
+      "request": "launch",
+      "mainClass": "TP7",
+      "projectName": "TP PBO 2017_15b400f2"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - TP5",
       "request": "launch",
       "mainClass": "TP5",
